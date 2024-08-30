@@ -4,3 +4,8 @@ Hola curso,
 en este curso pretendo aprender para poder tener un mejor portafolio,
 mas atractivo para conseguir un mejor trabajo
 ----------------------------
+
+PUNTO 2
+----------------------------
+Estoy conociendo mejor Visual Studio Code
+----------------------------
