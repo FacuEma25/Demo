@@ -1,0 +1,9 @@
+HACER EJERCICIO
+
+1- Salir de mi casa
+2- Caminar hasta el gimnacio
+3- Entrar al gimnacio
+4- Introducir mi DNI en la computadora de chequeo
+5- Comenzar a calentar
+6- Ir a la maquina o tomar pesos
+
